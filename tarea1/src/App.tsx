@@ -1,5 +1,5 @@
-import {Calcular} from "./components/Calcular";
-//import { Arreglo } from './components/Arreglo';
+//import {Calcular} from "./components/AreaRectangulo";
+//import { Arreglo } from './components/SumaArreglo';
 //import { DividirValores } from "./components/DivisionDeValores";
 //import { Alumno } from './components/Notas';
 
@@ -11,7 +11,7 @@ import {Calcular} from "./components/Calcular";
 function App() {
   return (
     <div className="mt-5" style={{ textAlign: "center" }}>
-      {<h1>Calcular el area de un cuadrado</h1>}
+      {/*<h1>Calcular el area de un cuadrado</h1>/*}
       {<Calcular/>}
       {/*<h2>Coloque la cantidad de elementos</h2>/*}
       {<Arreglo/>}
